@@ -7,3 +7,7 @@
 3.) Logs
 >> git log -p
 >> git log --stat --summary
+
+4.) Deleting a branch
+>> git branch -d dev (ensures changes are in current branch)
+>> git branch -D dev ( force delete)
